@@ -1,4 +1,4 @@
-# AI Chatbot
+# Chatbot for FAQs NLP
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ppE1iuVRHOgkpc34xp6qymWE16wpveo1?usp=sharing)
 
